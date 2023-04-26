@@ -1,0 +1,21 @@
+.card-container {
+  display:flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin: 27px;
+  justify-content: center;
+}
+.App{
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+.cart-value {
+  display: flex;
+  justify-content: right;
+  margin: 15px;
+  font-size: larger;
+
+}
